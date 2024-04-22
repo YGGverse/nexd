@@ -16,4 +16,4 @@ Includes [nex-pfm](https://hg.sr.ht/~m15o/nex-pfm) + modified for Linux / amd64 
 nexd path/to/destination/folder
 ```
 
-* server open `index` file by default, directory listing instead
+* server open `index` file by default, otherwise directory listing
