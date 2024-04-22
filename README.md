@@ -1,4 +1,4 @@
-# nexd - Server for Nex Protocol written in Go
+# nexd
 
 Unofficial GIT build of [nexd](https://hg.sr.ht/~m15o/nexd) Mercurial repository.
 
